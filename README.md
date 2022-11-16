@@ -5,6 +5,12 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+
+# kevin estuvo aqui
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] Fugaaaaa
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -68,7 +74,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an <h2> header
 ###### This is an <h6> header, which is the smallest
 ```
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
@@ -147,10 +153,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 #### How it looks
 
-```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
 
 ### :keyboard: Activity: Adding a code example
 
