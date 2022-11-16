@@ -4,6 +4,8 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
+![image](https://user-images.githubusercontent.com/71912732/202317546-6338388f-920b-46fd-bec6-105a5307c216.png)
+
 # kevin estuvo aqui
 # Communicate using Markdown
 
@@ -147,10 +149,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 #### How it looks
 
-```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
 
 ### :keyboard: Activity: Adding a code example
 
